@@ -1,0 +1,4 @@
+Manifest-Version: 1.0 
+Created-By: Atishay Goyal
+Class-Path: dependencies/json-simple-1.1.1.jar
+Main-Class: com.atishaygoyal.sortablechallenge.Matcher
